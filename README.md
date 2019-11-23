@@ -30,7 +30,7 @@
 
 <strong>Flowchart Program 4</strong>
 
-![](Flowchart.jpg)
+![](flowcart.jpg)
 
 <strong>Hasil Program 4</strong>
 
