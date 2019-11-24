@@ -21,8 +21,8 @@
 
 8.Untuk menampilkan nilai Akhir, program akan mengambil nilai rata rata dari nilai tugas,uts,uas dengan cara menambahkan data-data sesuai dengan index dari variabel "i".
 
-* tugas1+uts1+uas1/3
-* tugas2+uts2+uas2/3
+* tugas1*0.3+uts*0.35+uas1*0.35
+* tugas2*0.3+uts2*0.35+uas2*0.35
 
 9.Lalu Program akan mengoutputkan semua data yang telah di olah.
 
@@ -34,7 +34,7 @@
 
 <strong>Hasil Program 4</strong>
 
-![](hasilprogram4.jpg)
+![](hasillapspy4.jpg)
 
 <p align="center">:::MUHAMMAD FATCHUL HUDA:::</br></p>
 <p align="center">:::____311910101____:::</br></p>
