@@ -16,8 +16,8 @@
 
 * Program akan memanggil data nama,nim,tugas,uts,uas.
 * Lalu program akan meletakan data tersebut pada baris berdasarkan variabel "i", jika anda menginputkan dua buah nama maka akan tampil.
-     * 1 nama1 nim1 uts1 uas1
-     * 2 nama2 nim2 uts2 uas2.
+     * 1 nama1 nim1 tugas1 uts1 uas1
+     * 2 nama2 nim2 tugas1 uts2 uas2.
 
 8.Untuk menampilkan nilai Akhir, program akan mengambil nilai rata rata dari nilai tugas,uts,uas dengan cara menambahkan data-data sesuai dengan index dari variabel "i".
 
